@@ -135,7 +135,7 @@ export const clinicData = {
     {
       number: "100%",
       label: "Personalized Consultations",
-      desc: "Every face and body is unique; treatment plans are meticulously customized."
+      desc: "Every face and body is unique; treatment plans are individually customized."
     },
     {
       number: "360°",
