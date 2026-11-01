@@ -10,7 +10,7 @@ export const clinicData = {
     heroSubheading: "A bespoke union of advanced medical aesthetics, cutting-edge laser technologies, and root-cause holistic homeopathy designed to illuminate your skin and revitalize your hair.",
     bio: "Dr. Supriya Bansode is a dedicated healthcare and aesthetic medical practitioner specializing in advanced skin health, non-surgical facial rejuvenation, trichology, precision laser therapies, and individualized constitutional homeopathic care. Combining clinical rigor with an artist's eye for harmonious facial balance, she crafts tailored treatment pathways that honor each patient's unique biological blueprint.",
     credentials: [
-      "BHMS (Homeopathic Physician & Surgeon)",
+      "BHMS (Homeopathic Physician)",
       "Certified Clinical Cosmetologist",
       "Certified Medical Trichologist",
       "Advanced Aesthetic Laser Specialist"
@@ -26,7 +26,7 @@ export const clinicData = {
       },
       {
         title: "Modern Aesthetic Technology",
-        desc: "US-FDA approved laser standards & advanced modalities"
+        desc: "US-FDA approved laser"
       },
       {
         title: "Holistic Root-Cause Approach",
@@ -52,7 +52,7 @@ export const clinicData = {
     {
       id: "cosmetology",
       title: "Cosmetology",
-      subtitle: "Medical Skincare & Facial Architecture",
+      subtitle: "Medical Skincare ",
       icon: "Sparkles",
       badge: "Clinical Aesthetics",
       gradient: "from-amber-200/20 via-gold/10 to-transparent",
@@ -120,7 +120,6 @@ export const clinicData = {
         "Individualized Homeopathic Care & Prescriptions",
         "Patient-Focused Chronic Skin Treatment Plans",
         "Hormonal Acne & PCOD-Linked Skin/Hair Balancing",
-        "Stress-Related Eczema, Psoriasis & Scalp Care",
         "Zero-Side-Effect Constitutional Healing"
       ],
       techSpecs: "In-depth case taking, organon-based constitutional remedies, mind-body equilibrium."

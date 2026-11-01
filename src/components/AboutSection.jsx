@@ -9,7 +9,7 @@ export default function AboutSection() {
     {
       src: '/assets/dr_supriya_clinical.jpg',
       label: 'Clinical Practice',
-      desc: 'Dr. Supriya in her clinical examination suite'
+      desc: 'Dr. Supriya '
     },
     {
       src: '/assets/dr_supriya_portrait.jpg',

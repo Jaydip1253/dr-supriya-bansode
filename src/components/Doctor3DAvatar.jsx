@@ -145,7 +145,6 @@ export default function Doctor3DAvatar() {
                 2+ Years Practice
               </span>
               <span className="text-gold/90 font-medium text-[10px] sm:text-[11px]">
-                Clinical Suite
               </span>
             </div>
           </div>
@@ -182,7 +181,7 @@ export default function Doctor3DAvatar() {
 
       {/* Caption */}
       <p className="mt-2.5 text-center text-[11px] text-champagne-400/80 font-light">
-        Interactive 3D depth &amp; lighting responds to touch &amp; motion
+
       </p>
     </div>
   );
