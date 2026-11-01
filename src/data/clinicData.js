@@ -130,7 +130,7 @@ export const clinicData = {
     {
       number: "2+",
       label: "Years Professional Experience",
-      desc: "Proven track record in aesthetic dermatology, trichology, and clinical homeopathy."
+      desc: "Proven track record in aesthetic cosmetology, trichology, and clinical homeopathy."
     },
     {
       number: "100%",
