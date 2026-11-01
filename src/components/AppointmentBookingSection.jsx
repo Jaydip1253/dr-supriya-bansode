@@ -138,7 +138,7 @@ export default function AppointmentBookingSection({ preselectedService }) {
             <div className="p-4 sm:p-5 rounded-2xl bg-slate-900/60 border border-gold/20 flex items-start gap-3">
               <Sparkles className="w-4 h-4 text-gold shrink-0 mt-0.5" />
               <div className="text-xs text-champagne-300 font-light leading-relaxed">
-                <strong className="text-white font-medium">Personalized Care Guarantee:</strong> Every initial consultation includes a comprehensive scalp/skin examination and a detailed homeopathic constitutional workup.
+                <strong className="text-white font-medium">Personalized Care :</strong> Every initial consultation includes a comprehensive scalp/skin examination .
               </div>
             </div>
           </div>

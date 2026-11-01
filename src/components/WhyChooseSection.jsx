@@ -8,7 +8,7 @@ export default function WhyChooseSection() {
       icon: Award,
       title: "2+ Years of Professional Experience",
       badge: "Clinical Mastery",
-      description: "Dedicated clinical experience in aesthetic medicine, clinical dermatology protocols, trichology consultations, and advanced laser treatments."
+      description: "Dedicated clinical experience in aesthetic medicine, clinical Cosmetology protocols, trichology consultations, and advanced laser treatments."
     },
     {
       icon: UserCheck,
